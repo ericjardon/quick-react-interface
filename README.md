@@ -4,8 +4,6 @@ It is always good to go back to the basics. This small project was completed to 
 
 The simulated data corresponds to a list of applications of candidates to a Project, including the project name, candidate name, date, motivation letter and unique identifier.
 
-This is an ongoing project as I am working to implement persistent changes to the data and integrating an external database / backend server.
-
 This project may be used for future cash courses on React.
 
 ## Libraries used
